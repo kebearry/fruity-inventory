@@ -1,0 +1,110 @@
+@import '../../App.scss';
+
+.modalClose {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.modal {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    @extend .background-overlay;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.15s ease-out;
+}
+
+.effect {
+    visibility: visible;
+    opacity: 1;
+}
+
+.modal-content {
+    position: fixed;
+    z-index: 2;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+
+    &__product-display,
+    &__specs-display {
+        min-width: 50%;
+        text-align: center;
+
+        img {
+            max-height: 100%;
+            max-width: 80%;
+        }
+    }
+
+    .swatch-container {
+        display: flex;
+        justify-content: center;
+        column-gap: 10px;
+        padding-top: 10px;
+
+        &__swatch {
+            @extend .basic-swatch;
+            width: 16px;
+            height: 16px;
+        }
+    }
+
+
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        padding: 10px;
+        font-size: 17px;
+        font-weight: 600;
+    }
+
+    .square-bullets {
+        list-style: square;
+        margin: 0px 315x;
+    }
+}
+
+.modalClose {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: none;
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.modalClose:before,
+.modalClose:after {
+    content: "";
+    position: absolute;
+    top: 18px;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.modalClose:before {
+    transform: rotate(45deg);
+}
+
+.modalClose:after {
+    transform: rotate(-45deg);
+}

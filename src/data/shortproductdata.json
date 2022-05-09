@@ -1,0 +1,304 @@
+[
+    {
+        "productName": "iPhone 13 Pro",
+        "category": "iPhone",
+        "imgURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385505",
+        "store": "Birmingham, The Summit",
+        "variants": [
+            {
+                "color": "Alpine Green",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Alpine Green",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Alpine Green",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Alpine Green",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Silver",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Silver",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Silver",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Silver",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Gold",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Gold",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Gold",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Gold",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Graphite",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Graphite",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Graphite",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Graphite",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#9BB5CE"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#9BB5CE"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#9BB5CE"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#9BB5CE"
+            }
+        ],
+        "country": "United States",
+        "city": "Alabama",
+        "subcategory": "iPhone 13 Pro"
+    },
+    {
+        "productName": "iPhone 11 Pro",
+        "category": "iPhone",
+        "imgURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385505",
+        "store": "Birmingham, The Summit",
+        "variants": [
+            {
+                "color": "Alpine Green",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Alpine Green",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Alpine Green",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Alpine Green",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#505F4E"
+            },
+            {
+                "color": "Silver",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Silver",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Silver",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Silver",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#F5F5F0"
+            },
+            {
+                "color": "Gold",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Gold",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Gold",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Gold",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#F9E5C9"
+            },
+            {
+                "color": "Graphite",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Graphite",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Graphite",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Graphite",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#5C5B57"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "128GB",
+                "available": true,
+                "price": "999.00",
+                "color code": "#9BB5CE"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "256GB",
+                "available": true,
+                "price": "1099.00",
+                "color code": "#9BB5CE"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "512GB",
+                "available": true,
+                "price": "1299.00",
+                "color code": "#9BB5CE"
+            },
+            {
+                "color": "Sierra Blue",
+                "type": "1TB",
+                "available": true,
+                "price": "1499.00",
+                "color code": "#9BB5CE"
+            }
+        ],
+        "country": "United States",
+        "city": "Alabama",
+        "subcategory": "iPhone 13 Pro"
+    }
+]

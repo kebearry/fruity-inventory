@@ -1,0 +1,1362 @@
+[
+    {
+        "country": "United States",
+        "city": "Alabama",
+        "store": "Birmingham, The Summit"
+    },
+    {
+        "country": "United States",
+        "city": "Alabama",
+        "store": "Huntsville, Bridge Street"
+    },
+    {
+        "country": "United States",
+        "city": "Alaska",
+        "store": "Anchorage, Anchorage 5th Avenue Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Arizona",
+        "store": "Chandler, Chandler Fashion Center"
+    },
+    {
+        "country": "United States",
+        "city": "Arizona",
+        "store": "Gilbert, SanTan Village"
+    },
+    {
+        "country": "United States",
+        "city": "Arizona",
+        "store": "Glendale, Arrowhead"
+    },
+    {
+        "country": "United States",
+        "city": "Arizona",
+        "store": "Scottsdale, Scottsdale Fashion Square"
+    },
+    {
+        "country": "United States",
+        "city": "Arizona",
+        "store": "Scottsdale, Scottsdale Quarter"
+    },
+    {
+        "country": "United States",
+        "city": "Arizona",
+        "store": "Tucson, La Encantada"
+    },
+    {
+        "country": "United States",
+        "city": "Arkansas",
+        "store": "Little Rock, The Promenade at Chenal"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Bakersfield, Valley Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Berkeley, 4th Street"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Brea, Brea Mall"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Burlingame, Burlingame"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Canoga Park, Topanga"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Carlsbad, Carlsbad"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Cerritos, Los Cerritos"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Chula Vista, Otay Ranch"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Corte Madera, Corte Madera"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Costa Mesa, South Coast Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Cupertino, Infinite Loop"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Cupertino, Apple Park Visitor Center"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Emeryville, Bay Street"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Escondido, North County"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Fresno, Fashion Fair"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Glendale, Glendale Galleria"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Glendale, The Americana at Brand"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Irvine, Irvine Spectrum Center"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Los Angeles, The Grove"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Los Angeles, Tower Theatre"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Los Angeles, Beverly Center"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Los Angeles, Century city"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Los Gatos, Los Gatos"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Manhattan Beach, Manhattan Village"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Mission Viejo, Mission Viejo"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Modesto, Vintage Faire"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Monterey, Del Monte"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Newport Beach, Fashion Island"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Northridge, Northridge"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Palm Desert, El Paseo Village"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Palo Alto, Stanford Shopping Center"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Palo Alto, Palo Alto"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Pasadena, Pasadena"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Pleasanton, Stoneridge Mall"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Rancho Cucamonga, Victoria Gardens"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Roseville, Roseville"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Sacramento, Arden Fair"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Diego, UTC"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Diego, Fashion Valley"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Francisco, Chestnut Street"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Francisco, Stonestown"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Francisco, Union Square"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Jose, Oakridge"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Luis Obispo, Higuera Street"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "San Mateo, Hillsdale"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Santa Barbara, State Street"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Santa Clara, Valley Fair"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Santa Monica, Third Street Promenade"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Santa Rosa, Santa Rosa Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Sherman Oaks, Sherman Oaks"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Temecula, Promenade Temecula"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Thousand Oaks, The Oaks"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Valencia, Valencia Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "California",
+        "store": "Walnut Creek, Broadway Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "Colorado",
+        "store": "Boulder, Twenty Ninth Street"
+    },
+    {
+        "country": "United States",
+        "city": "Colorado",
+        "store": "Broomfield, FlatIron Crossing"
+    },
+    {
+        "country": "United States",
+        "city": "Colorado",
+        "store": "Colorado Springs, The Promenade Shops at Briargate"
+    },
+    {
+        "country": "United States",
+        "city": "Colorado",
+        "store": "Denver, Cherry Creek"
+    },
+    {
+        "country": "United States",
+        "city": "Colorado",
+        "store": "Littleton, Aspen Grove"
+    },
+    {
+        "country": "United States",
+        "city": "Colorado",
+        "store": "Lone Tree, Park Meadows"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "Danbury, Danbury Fair Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "Farmington, Westfarms"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "Greenwich, Greenwich Avenue"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "New Haven, New Haven"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "Norwalk, SoNo Collection"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "South Windsor, Evergreen Walk"
+    },
+    {
+        "country": "United States",
+        "city": "Connecticut",
+        "store": "Trumbull, Trumbull"
+    },
+    {
+        "country": "United States",
+        "city": "Delaware",
+        "store": "Newark, Christiana Mall"
+    },
+    {
+        "country": "United States",
+        "city": "District of Columbia",
+        "store": "Washington, Carnegie Library"
+    },
+    {
+        "country": "United States",
+        "city": "District of Columbia",
+        "store": "Washington, Georgetown"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Altamonte Springs, Altamonte"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Aventura, Aventura"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Boca Raton, Boca Raton"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Brandon, Brandon"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Estero, Coconut Point"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Fort Lauderdale, The Galleria"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Jacksonville, St. Johns Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Miami, Dadeland"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Miami, Brickell city Centre"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Miami, The Falls"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Miami Beach, Lincoln Road"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Naples, Waterside Shops"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Orlando, Millenia"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Orlando, Florida Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Palm Beach Gardens, The Gardens Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Sarasota, University Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Tampa, International Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "Florida",
+        "store": "Wellington, Wellington Green"
+    },
+    {
+        "country": "United States",
+        "city": "Georgia",
+        "store": "Alpharetta, Avalon"
+    },
+    {
+        "country": "United States",
+        "city": "Georgia",
+        "store": "Atlanta, Perimeter"
+    },
+    {
+        "country": "United States",
+        "city": "Georgia",
+        "store": "Atlanta, Lenox Square"
+    },
+    {
+        "country": "United States",
+        "city": "Georgia",
+        "store": "Atlanta, Cumberland Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Georgia",
+        "store": "Augusta, Augusta"
+    },
+    {
+        "country": "United States",
+        "city": "Georgia",
+        "store": "Buford, Mall of Georgia"
+    },
+    {
+        "country": "United States",
+        "city": "Hawaii",
+        "store": "Honolulu, Royal Hawaiian"
+    },
+    {
+        "country": "United States",
+        "city": "Hawaii",
+        "store": "Honolulu, Kahala"
+    },
+    {
+        "country": "United States",
+        "city": "Hawaii",
+        "store": "Honolulu, Ala Moana"
+    },
+    {
+        "country": "United States",
+        "city": "Idaho",
+        "store": "Boise, Boise Towne Square"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Chicago, Lincoln Park"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Chicago, Michigan Avenue"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Deer Park, Deer Park"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Naperville, Main Place"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Northbrook, Northbrook"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Oak Brook, Oakbrook"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Orland Park, Orland Square Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Schaumburg, Woodfield"
+    },
+    {
+        "country": "United States",
+        "city": "Illinois",
+        "store": "Skokie, Old Orchard"
+    },
+    {
+        "country": "United States",
+        "city": "Indiana",
+        "store": "Indianapolis, The Fashion Mall at Keystone"
+    },
+    {
+        "country": "United States",
+        "city": "Indiana",
+        "store": "Mishawaka, University Park Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Iowa",
+        "store": "West Des Moines, Jordan Creek"
+    },
+    {
+        "country": "United States",
+        "city": "Kansas",
+        "store": "Leawood, Leawood"
+    },
+    {
+        "country": "United States",
+        "city": "Kentucky",
+        "store": "Lexington, Fritz Farm"
+    },
+    {
+        "country": "United States",
+        "city": "Kentucky",
+        "store": "Louisville, Oxmoor"
+    },
+    {
+        "country": "United States",
+        "city": "Louisiana",
+        "store": "Baton Rouge, Mall of Louisiana"
+    },
+    {
+        "country": "United States",
+        "city": "Louisiana",
+        "store": "Metairie, Lakeside Shopping Center"
+    },
+    {
+        "country": "United States",
+        "city": "Maine",
+        "store": "South Portland, Maine Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Maryland",
+        "store": "Annapolis, Annapolis"
+    },
+    {
+        "country": "United States",
+        "city": "Maryland",
+        "store": "Bethesda, Bethesda Row"
+    },
+    {
+        "country": "United States",
+        "city": "Maryland",
+        "store": "Bethesda, Montgomery Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Maryland",
+        "store": "Columbia, Columbia"
+    },
+    {
+        "country": "United States",
+        "city": "Maryland",
+        "store": "Towson, Towson Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Boston, Boylston Street"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Braintree, South Shore"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Burlington, Burlington"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Cambridge, CambridgeSide"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Chestnut Hill, Chestnut Hill"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Dedham, Legacy Place"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Hingham, Derby Street"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Holyoke, Holyoke"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Lynnfield, MarketStreet"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Marlborough, Solomon Pond Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Massachusetts",
+        "store": "Natick, Natick"
+    },
+    {
+        "country": "United States",
+        "city": "Michigan",
+        "store": "Ann Arbor, Briarwood"
+    },
+    {
+        "country": "United States",
+        "city": "Michigan",
+        "store": "Clinton Township, Partridge Creek"
+    },
+    {
+        "country": "United States",
+        "city": "Michigan",
+        "store": "Grand Rapids, Woodland"
+    },
+    {
+        "country": "United States",
+        "city": "Michigan",
+        "store": "Lansing, Eastwood Towne Center"
+    },
+    {
+        "country": "United States",
+        "city": "Michigan",
+        "store": "Novi, Twelve Oaks"
+    },
+    {
+        "country": "United States",
+        "city": "Michigan",
+        "store": "Troy, Somerset"
+    },
+    {
+        "country": "United States",
+        "city": "Minnesota",
+        "store": "Bloomington, Mall of America"
+    },
+    {
+        "country": "United States",
+        "city": "Minnesota",
+        "store": "Edina, Southdale"
+    },
+    {
+        "country": "United States",
+        "city": "Minnesota",
+        "store": "Minnetonka, Ridgedale"
+    },
+    {
+        "country": "United States",
+        "city": "Minnesota",
+        "store": "Roseville, Rosedale Center"
+    },
+    {
+        "country": "United States",
+        "city": "Mississippi",
+        "store": "Ridgeland, Renaissance at Colony Park"
+    },
+    {
+        "country": "United States",
+        "city": "Missouri",
+        "store": "Kansas city, country Club Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "Missouri",
+        "store": "Saint Louis, Saint Louis Galleria"
+    },
+    {
+        "country": "United States",
+        "city": "Missouri",
+        "store": "St. Louis, West County"
+    },
+    {
+        "country": "United States",
+        "city": "Nebraska",
+        "store": "Omaha, Village Pointe"
+    },
+    {
+        "country": "United States",
+        "city": "Nevada",
+        "store": "Las Vegas, Summerlin"
+    },
+    {
+        "country": "United States",
+        "city": "Nevada",
+        "store": "Las Vegas, The Forum Shops"
+    },
+    {
+        "country": "United States",
+        "city": "Nevada",
+        "store": "Las Vegas, Fashion Show"
+    },
+    {
+        "country": "United States",
+        "city": "Nevada",
+        "store": "Las Vegas, Town Square"
+    },
+    {
+        "country": "United States",
+        "city": "Nevada",
+        "store": "Reno, Summit Sierra"
+    },
+    {
+        "country": "United States",
+        "city": "New Hampshire",
+        "store": "Manchester, The Mall of New Hampshire"
+    },
+    {
+        "country": "United States",
+        "city": "New Hampshire",
+        "store": "Nashua, Pheasant Lane"
+    },
+    {
+        "country": "United States",
+        "city": "New Hampshire",
+        "store": "Salem, Rockingham Park"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Bridgewater, Bridgewater"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Cherry Hill, Cherry Hill"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Edison, Menlo Park"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Freehold, Freehold Raceway Mall"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Lawrence Township, Quaker Bridge"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Marlton, Sagemore"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Paramus, Garden State Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Rockaway, Rockaway"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Short Hills, Short Hills"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Wayne, Willowbrook"
+    },
+    {
+        "country": "United States",
+        "city": "New Jersey",
+        "store": "Woodcliff Lake, Tice's Corner"
+    },
+    {
+        "country": "United States",
+        "city": "New Mexico",
+        "store": "Albuquerque, ABQ Uptown"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Albany, Crossgates"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Bronx, The Mall at Bay Plaza"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Brooklyn, Williamsburg"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Brooklyn, Downtown Brooklyn"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Buffalo, Walden Galleria"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Elmhurst, Queens Center"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Garden city, Roosevelt Field"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Huntington Station, Walt Whitman"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Lake Grove, Smith Haven"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Manhasset, Manhasset"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Nanuet, Nanuet"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, Upper West Side"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, Upper East Side"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, SoHo"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, Fifth Avenue"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, World Trade Center"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, West 14th Street"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "New York, Grand Central"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Staten Island, Staten Island"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Syracuse, Syracuse"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Victor, Eastview"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "White Plains, The Westchester"
+    },
+    {
+        "country": "United States",
+        "city": "New York",
+        "store": "Yonkers, Ridge Hill"
+    },
+    {
+        "country": "United States",
+        "city": "North Carolina",
+        "store": "Charlotte, Northlake Mall"
+    },
+    {
+        "country": "United States",
+        "city": "North Carolina",
+        "store": "Charlotte, SouthPark"
+    },
+    {
+        "country": "United States",
+        "city": "North Carolina",
+        "store": "Durham, Southpoint"
+    },
+    {
+        "country": "United States",
+        "city": "North Carolina",
+        "store": "Greensboro, Friendly Center"
+    },
+    {
+        "country": "United States",
+        "city": "North Carolina",
+        "store": "Raleigh, Crabtree Valley Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Akron, Summit Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Beavercreek, The Greene"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Cincinnati, Kenwood Towne Centre"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Columbus, Easton Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Columbus, Polaris Fashion Place"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Toledo, Franklin Park Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Westlake, Crocker Park"
+    },
+    {
+        "country": "United States",
+        "city": "Ohio",
+        "store": "Woodmere, Eton"
+    },
+    {
+        "country": "United States",
+        "city": "Oklahoma",
+        "store": "Oklahoma city, Penn Square"
+    },
+    {
+        "country": "United States",
+        "city": "Oklahoma",
+        "store": "Tulsa, Woodland Hills"
+    },
+    {
+        "country": "United States",
+        "city": "Oregon",
+        "store": "Portland, Pioneer Place"
+    },
+    {
+        "country": "United States",
+        "city": "Oregon",
+        "store": "Tigard, Bridgeport Village"
+    },
+    {
+        "country": "United States",
+        "city": "Oregon",
+        "store": "Tigard, Washington Square"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Ardmore, Suburban Square"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "King of Prussia, King of Prussia"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Lancaster, Park city"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Philadelphia, Walnut Street"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Pittsburgh, South Hills Village"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Pittsburgh, Ross Park"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Pittsburgh, Shadyside"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Whitehall, Lehigh Valley"
+    },
+    {
+        "country": "United States",
+        "city": "Pennsylvania",
+        "store": "Willow Grove, Willow Grove Park"
+    },
+    {
+        "country": "United States",
+        "city": "Rhode Island",
+        "store": "Providence, Providence Place"
+    },
+    {
+        "country": "United States",
+        "city": "South Carolina",
+        "store": "Charleston, Charleston"
+    },
+    {
+        "country": "United States",
+        "city": "South Carolina",
+        "store": "Greenville, Haywood Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Tennessee",
+        "store": "Franklin, CoolSprings Galleria"
+    },
+    {
+        "country": "United States",
+        "city": "Tennessee",
+        "store": "Germantown, Saddle Creek"
+    },
+    {
+        "country": "United States",
+        "city": "Tennessee",
+        "store": "Knoxville, West Town Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Tennessee",
+        "store": "Nashville, Downtown Nashville"
+    },
+    {
+        "country": "United States",
+        "city": "Tennessee",
+        "store": "Nashville, Green Hills"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Austin, Domain NORTHSIDE"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Austin, Barton Creek"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Dallas, Knox Street"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Dallas, NorthPark Center"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Dallas, Galleria Dallas"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "El Paso, Cielo Vista Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Fort Worth, University Park Village"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Friendswood, Baybrook"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Houston, Houston Galleria"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Houston, Willowbrook Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Houston, Memorial city"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Houston, Highland Village"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "San Antonio, La Cantera"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "San Antonio, North Star"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Southlake, Southlake Town Square"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "Sugar Land, First Colony Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Texas",
+        "store": "The Woodlands, The Woodlands"
+    },
+    {
+        "country": "United States",
+        "city": "Utah",
+        "store": "Farmington, Station Park"
+    },
+    {
+        "country": "United States",
+        "city": "Utah",
+        "store": "Murray, Fashion Place"
+    },
+    {
+        "country": "United States",
+        "city": "Utah",
+        "store": "Salt Lake city, city Creek Center"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Arlington, Clarendon"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Arlington, Pentagon city"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Fairfax, Fair Oaks"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "McLean, Tysons Corner"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Reston, Reston"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Richmond, Short Pump Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Virginia Beach, Lynnhaven Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Virginia",
+        "store": "Woodbridge, Potomac Town Center"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "store": "Bellevue, Bellevue Square"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "store": "Lynnwood, Alderwood"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "store": "Seattle, University Village"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "store": "Spokane, River Park Square"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "store": "Tacoma, Tacoma Mall"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "store": "Tukwila, Southcenter"
+    },
+    {
+        "country": "United States",
+        "city": "Wisconsin",
+        "store": "Glendale, Bayshore"
+    },
+    {
+        "country": "United States",
+        "city": "Wisconsin",
+        "store": "Madison, Hilldale"
+    },
+    {
+        "country": "United States",
+        "city": "Wisconsin",
+        "store": "Wauwatosa, Mayfair"
+    }
+]

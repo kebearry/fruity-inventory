@@ -1,0 +1,216 @@
+[
+    {
+        "name": "iPhone 13 Pro",
+        "productSpecs": [
+            "6.1-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+            "Biggest Pro camera system upgrade ever for epic low-light shots and macro photography",
+            "A15 Bionic with 5-core GPU — the fastest chip ever in a smartphone",
+            "Ceramic Shield, tougher than any smartphone glass. And IP68 water resistance.",
+            "5G for superfast downloads and high-quality streaming"
+        ],
+        "colors": [
+            "Alpine Green",
+            "Silver",
+            "Gold",
+            "Graphite",
+            "Sierra Blue"
+        ]
+    },
+    {
+        "name": "iPhone 13 Pro Max",
+        "productSpecs": [
+            "6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+            "Biggest Pro camera system upgrade ever for epic low-light shots and macro photography",
+            "A15 Bionic with 5-core GPU — the fastest chip ever in a smartphone",
+            "Ceramic Shield, tougher than any smartphone glass. And IP68 water resistance.",
+            "Up to 28 hours of video playback — the best battery life ever on iPhone"
+        ],
+        "colors": [
+            "Alpine Green",
+            "Silver",
+            "Gold",
+            "Graphite",
+            "Sierra Blue"
+        ]
+    },
+    {
+        "name": "iPhone 13",
+        "productSpecs": [
+            "6.1-inch Super Retina XDR display, now 28% brighter",
+            "Our most advanced dual-camera system for incredible low-light photos and videos",
+            "A15 Bionic with 4-core GPU -faster than the competition",
+            "Ceramic Shield, tougher than any smartphone glass. And IP68 water resistance.",
+            "5G for superfast downloads and high-quality streaming"
+        ],
+        "colors": [
+            "Green",
+            "Pink",
+            "Blue",
+            "Midnight",
+            "Starlight",
+            "Product(red)"
+        ]
+    },
+    {
+        "name": "iPhone 13 Mini",
+        "productSpecs": [
+            "5.4-inch Super Retina XDR display, now 28% brighter",
+            "Our most advanced dual-camera system for incredible low-light photos and videos",
+            "A15 Bionic with 4-core GPU -faster than the competition",
+            "Ceramic Shield, tougher than any smartphone glass. And IP68 water resistance.",
+            "5G for superfast downloads and high-quality streaming"
+        ],
+        "colors": [
+            "Green",
+            "Pink",
+            "Blue",
+            "Midnight",
+            "Starlight",
+            "Product(red)"
+        ]
+    },
+    {
+        "name": "iPhone SE",
+        "productSpecs": [
+            "4.7-inch Retina HD display that's bright, colorful and sharp",
+            "A15 Bionic, the same super-fast chip that’s in iPhone 13.",
+            "5G for superfast downloads and high-quality streaming",
+            "Smarter camera makes automatic adjustments so faces, places, everything looks fabulous",
+            "Home button with Touch ID — securely unlock, sign in to apps, and use Apple Pay"
+        ],
+        "colors": [
+            "Midnight",
+            "Starlight",
+            "Product(red)"
+        ]
+    },
+    {
+        "name": "iPhone 12",
+        "productSpecs": [
+            "6.1-inch Super Retina XDR display for great contrast and incredible colour accuracy",
+            "Advanced dual-camera system with Night mode and Dolby Vision HDR recording",
+            "Superpowerful A14 Bionic chip",
+            "Ceramic Shield, tougher than any smartphone glass. And IP68 water resistance.",
+            "5G for superfast downloads and high-quality streaming"
+        ],
+        "colors": [
+            "Green",
+            "Purple",
+            "Blue",
+            "White",
+            "Black",
+            "Product(red)"
+        ]
+    },
+    {
+        "name": "iPhone 12 mini",
+        "productSpecs": [
+            "5.4-inch Super Retina XDR display for great contrast and incredible colour accuracy",
+            "Advanced dual-camera system with Night mode and Dolby Vision HDR recording",
+            "Superpowerful A14 Bionic chip",
+            "Ceramic Shield, tougher than any smartphone glass. And IP68 water resistance.",
+            "5G for superfast downloads and high-quality streaming"
+        ],
+        "colors": [
+            "Green",
+            "Purple",
+            "Blue",
+            "White",
+            "Black",
+            "Product(red)"
+        ]
+    },
+    {
+        "name": "iPhone 11",
+        "productSpecs": [
+            "6.1-inch Liquid Retina HD display",
+            "Dual-camera system with Night mode, Portrait mode, and 4K video up to 60 fps",
+            "12MP TrueDepth front camera with Portrait mode, 4K video, and slo-mo",
+            "A13 Bionic chip with Neural Engine",
+            "Face ID for secure authentication and Apple Pay"
+        ],
+        "colors": [
+            "Green",
+            "Purple",
+            "Yellow",
+            "White",
+            "Black",
+            "Product(red)"
+        ]
+    },
+    {
+        "name": "iPad Pro 11-inch",
+        "productSpecs": [
+            "Apple M1 chip for next-level performance",
+            "11-inch Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+            "Pro cameras with LiDAR Scanner, and Ultra Wide front camera with Center Stage",
+            "5G for superfast downloads and high-quality streaming",
+            "Compatible with Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Folio"
+        ],
+        "colors": [
+            "Space Gray",
+            "Silver"
+        ]
+    },
+    {
+        "name": "iPad Pro 12.9-inch",
+        "productSpecs": [
+            "Apple M1 chip for next-level performance",
+            "12.9-inch Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+            "Pro cameras with LiDAR Scanner, and Ultra Wide front camera with Center Stage",
+            "5G for superfast downloads and high-quality streaming",
+            "Compatible with Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Folio"
+        ],
+        "colors": [
+            "Space Gray",
+            "Silver"
+        ]
+    },
+    {
+        "name": "iPad Air",
+        "productSpecs": [
+            "Apple M1 chip for next-level performance and all-day battery life",
+            "10.9-inch Liquid Retina display delivers an immersive viewing experience",
+            "12MP Ultra Wide front camera with Center Stage for more natural video calls",
+            "Get blazing-fast 5G on cellular models and superfast Wi-Fi with Wi-Fi 6",
+            "Compatible with Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Folio"
+        ],
+        "colors": [
+            "Space Gray",
+            "Pink",
+            "Purple",
+            "Blue",
+            "Starlight"
+        ]
+    },
+    {
+        "name": "iPad",
+        "productSpecs": [
+            "The A13 Bionic chip with Neural Engine makes everything you do more responsive",
+            "10.2-inch Retina display with True Tone for incredible detail and vivid colors",
+            "12MP Ultra Wide front camera with Center Stage for more natural video calls",
+            "Starts at 64GB of storage to give you more room for your files",
+            "Fast connection with 802.11ac Wi-Fi and Gigabit-class LTE cellular data"
+        ],
+        "colors": [
+            "Space Gray",
+            "Silver"
+        ]
+    },
+    {
+        "name": "iPad mini",
+        "productSpecs": [
+            "A15 Bionic chip for incredible performance and all-day battery life",
+            "Stunning 8.3-inch Liquid Retina display with True Tone and P3 wide color",
+            "12MP Ultra Wide front camera with Center Stage for more natural video calls",
+            "5G and Wi-Fi 6 for ultrafast connections",
+            "Touch ID built into the top button for secure authentication and Apple Pay"
+        ],
+        "colors": [
+            "Space Gray",
+            "Pink",
+            "Purple",
+            "Starlight"
+        ]
+    }
+]

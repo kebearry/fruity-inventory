@@ -1,0 +1,130 @@
+@import '../../App.scss';
+
+.navbar {
+    height: 48px;
+    width: 100%;
+    background-color: $default-darkgrey;
+    font-size: 16px;
+
+    .profile {
+        @extend .container;
+
+        #file-upload-input {
+            display: none;
+        }
+
+        .profile-dropdown {
+            width: 286px;
+            position: absolute;
+            right: 12%;
+
+            @media screen and (max-width: 1140px) {
+                right: 0;
+            }
+
+            background-color: white;
+            z-index:2;
+
+            >div {
+                margin-top: 4px;
+            }
+
+            &__email {
+                @extend .basic-link;
+                color: $apple-systemblue;
+            }
+
+            &__avatar {
+                @extend .flex-container;
+
+                span {
+                    @extend .basic-link;
+                    color: $apple-lightgrey;
+                    font-size: 14px;
+
+                    &:hover {
+                        color: $apple-systemblue;
+                    }
+                }
+            }
+
+            &__location {
+                margin-top: -5px;
+                padding-bottom: 10px;
+
+                &-icon {
+                    width: 18px;
+                    padding-right: 10px;
+
+                    &-title {
+                        color: $apple-cyan;
+                        font-size: 15px;
+                    }
+                }
+            }
+        }
+    }
+
+    &__content {
+        @extend .container;
+        padding: 0 22px;
+        height: 100%;
+
+        &-list {
+            margin: 0 -8px;
+            width: auto;
+            height: 100%;
+            display: flex;
+            justify-content: space-between;
+
+            &-item {
+                box-sizing: border-box;
+                display: flex;
+                z-index: 1;
+                align-items: center;
+            }
+        }
+    }
+
+    &__apple {
+        margin-left: -30px;
+        color: $apple-grey;
+
+        &-icon {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            overflow: hidden;
+
+            &-name {
+                padding-left: 10px;
+                padding-top: 3px;
+            }
+        }
+    }
+
+    &__profile {
+        &-pic {
+            width: 28px;
+            height: 28px;
+            cursor: pointer;
+            padding-right: 10px;
+        }
+
+        &-dropdown {
+            border: 1px solid #d2d2d7;
+            border-radius: 0 0 12px 12px;
+            margin: 0 auto;
+            padding: 20px;
+            min-height: 90px;
+
+            h4 {
+                line-height: 0;
+            }
+
+            &-pic {
+                cursor: none;
+            }
+        }
+    }
+}
