@@ -9,7 +9,7 @@
 
 ## Description
 ![Inventory Preview](https://i.imgur.com/W8Kr0KY.png)
-This React-based frontend website is a simple Apple stores inventory check system aimed at easing call center agents in addressing customer enquiries. In this app, customer call agents will be able to lookup product availability across store locations and products. A live environment for this app can be accessed at [TBC](http://google.com)
+This React-based frontend website is a simple Apple stores inventory check system aimed at easing call center agents in addressing customer enquiries. In this app, customer call agents will be able to lookup product availability across store locations and products. A live environment for this app can be accessed at [Fruity Inventory](https://fruity-inventory.vercel.app/)
 
 ### Assumptions
 
@@ -24,7 +24,7 @@ This React-based frontend website is a simple Apple stores inventory check syste
 
 1) Open terminal and clone this project :
 
-   `git clone https://github.com/`
+   `git clone https://github.com/kebearry/fruity-inventory.git`
 
 2) Change directory to this project directory in terminal :
 
