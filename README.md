@@ -5,6 +5,7 @@
 * [How to run](#how-to-run)
 * [How to use the web application](#how-to-use-the-web-application)
 * [Source code structure](#code-structure)
+* [Credits](#credits)
 
 ## Description
 ![Inventory Preview](https://i.imgur.com/W8Kr0KY.png)
@@ -98,9 +99,9 @@ This React-based frontend website is a simple Apple stores inventory check syste
 
 ---
 ## Credits:
-https://www.apple.com/store
-https://www.apple.com/retail/storelist/
-Jupyter🤣
-My brain, my time, my effort:sweat_smile:
+https://www.apple.com/store   <br />
+https://www.apple.com/retail/storelist/   <br />
+Jupyter🤣   <br />
+My brain, my time, my effort:sweat_smile:   <br />
 
 ---
