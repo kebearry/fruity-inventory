@@ -7,14 +7,8 @@ function Accordion(props) {
     
     const toggleAccordion = function () {
         const itemToggle = this.getAttribute('aria-expanded');
-        if (itemToggle === 'false') {
-            this.setAttribute('aria-expanded', 'true');
-            for (const element of items) {
-                if (element.id !== this.id) {
-                    element.setAttribute('aria-expanded', 'false')
-                }
-            }
-        }
+        if (itemToggle === 'true') this.setAttribute('aria-expanded', 'false');
+        if (itemToggle === 'false') this.setAttribute('aria-expanded', 'true');
     }
 
     const toBeChecked = (data) => {
